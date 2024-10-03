@@ -58,7 +58,7 @@ The project is structured to serve as a foundation for customer-facing applicati
 
 ### Firebase Setup
 
-1. In the `src/firebase.config.js` file, the Firebase SDK is initialized using your environment variables.
+1. In the `firebase.config.js` file, the Firebase SDK is initialized using your environment variables.
 2. You can expand the Firebase features by adding Firestore, Storage, etc., as required for your project.
 
 ### Running the Application
@@ -89,5 +89,5 @@ The optimized files will be in the `dist` folder, ready to be deployed.
 ## Customization
 
 - **Tailwind CSS**: You can extend the styles by customizing the `tailwind.config.js`.
-- **ShadCN UI**: Components can be further customized or replaced as per your design needs. Check `src/components/ui` for a list of pre-installed components
+- **ShadCN UI**: Components can be further customized or replaced as per your design needs. Check `src/components/ui/` for a list of pre-installed components
 - **Firebase Services**: Additional Firebase services (Firestore, Storage, etc.) can be integrated as needed by updating the `firebase.config.js` file and adding the relevant imports.
