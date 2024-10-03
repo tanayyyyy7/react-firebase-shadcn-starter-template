@@ -33,13 +33,7 @@ The project is structured to serve as a foundation for customer-facing applicati
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/react-firebase-starter.git
-    ```
-
-2. Navigate into the project directory:
-
-    ```bash
-    cd react-firebase-starter
+    git clone https://github.com/tanayyyyy7/react-firebase-shadcn-starter-template.git
     ```
 
 3. Install dependencies:
